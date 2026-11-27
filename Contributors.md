@@ -1,3 +1,4 @@
+- [Joyanta Ghosh](https://github.com/joyantaghosh) - Hi, I'm joyanta and this is my first contribution to open source.
 - [Samiullah](https://github.com/Md-Samiullah01) - Hi, I'm Sami.
 - [Kreyanxh](https://github.com/Kreyanxh) - Hi, I am Kreyansh and this is my first contribution to open source.
 - [Parinita](https://github.com/parinita1005)
@@ -65,6 +66,7 @@ Alliance Ngoy Muya
 - [Christian](https://github.com/ch-block-314) - Hi, this is my first contribution!
 - [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
+- [Louis](https://github.com/a22186612-beep) - Hi!!
 - [evan-Lin](https://github.com/Evan-lin2005) - My first contribution!
 - [Suhaan Khan](https://github.com/suhaankhan) - HI lol
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
@@ -4520,6 +4522,7 @@ andrewcodess
 - [Faisal](https://github.com/FaisalXL)
 - [KrxnTech] (https://github.com/KrxnTech)
 - [sarthakhire](https://github.com/sarthakhire)
+- [Kazuki Oka](https://github.com/kazuki-oka)
 - [Francesco Pirazzini](https://github.com/177Frenk)
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Frankie Liu](https://github.com/FrankieLiuF)
@@ -9046,3 +9049,4 @@ Ajay
 - [Mohammad Ibrahim Khan] - First contribution done!
 - Gaurav Verma
 - [Le Wild Homie] - First contribution done!
+- [Nikki Ganji](https://github.com/nikkiganji) - My first open-source contribution!
